@@ -6,7 +6,11 @@ permalink: /about/
 
 # About {{ site.title }}
 
-Digital collection site built via metadata and Jekyll.
+**Hi** This is a digital collection site built via metadata and Jekyll.
+
+### Who are we?
+
+This is a collaborative project. Objects are from the **University of Idaho** and **Washington State University** archives. 
 
 ### Technical
 
@@ -18,3 +22,5 @@ Document metadata is exposed using [Schema.org](http://schema.org) and [Open Gra
 Get the [Source code]({{ site.repository }})!
 
 Last build date: {{ site.time | date: "%Y-%m-%d" }}.
+
+## Thanks for visiting!
