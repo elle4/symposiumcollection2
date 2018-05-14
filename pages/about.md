@@ -6,7 +6,7 @@ permalink: /about/
 
 # About {{ site.title }}
 
-**Hi** This is a digital collection site built via metadata and Jekyll.
+**Hi.** This is a digital collection site built via metadata and Jekyll.
 
 ### Who are we?
 
